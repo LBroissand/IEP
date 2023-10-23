@@ -1,0 +1,25 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/background.jpg); 
+	color: white;
+	padding: 110px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+	color: #FFDC82;
+	text-shadow: 3px 3px 5px black;
+	margin: -20px -3px;
+}
+.banner h2 {
+	font-size: 14x;
+	font-weight: lighter;
+	text-shadow: 3px 3px 5px black;
+}
+.banner h3 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 28px;
+	font-weight: bold;
+	margin-bottom: 60px;
+}
